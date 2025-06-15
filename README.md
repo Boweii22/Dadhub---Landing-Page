@@ -49,12 +49,25 @@ Father's Day is a special occasion celebrated worldwide to honor fathers and fat
 ## 🎨 Project Structure
 
 ```
-src/
-├── components/     # Reusable UI components
-├── pages/         # Page components
-├── assets/        # Static assets
-├── styles/        # Global styles
-└── utils/         # Utility functions
+project/
+├── public/                # Static assets and favicon
+├── src/
+│   ├── components/       # React components
+│   │   ├── AboutFathersDay.tsx    # About section with Father's Day information
+│   │   ├── CelebrationModal.tsx   # Modal for celebration suggestions
+│   │   ├── FooterCTA.tsx          # Call-to-action footer component
+│   │   ├── GiftIdeas.tsx          # Gift suggestions component
+│   │   ├── HeroSection.tsx        # Main hero section
+│   │   └── SocialFeed.tsx         # Social media feed component
+│   ├── App.tsx           # Main application component
+│   ├── main.tsx          # Application entry point
+│   ├── index.css         # Global styles
+│   └── vite-env.d.ts     # Vite environment type definitions
+├── index.html            # HTML entry point
+├── package.json          # Project dependencies and scripts
+├── tsconfig.json         # TypeScript configuration
+├── vite.config.ts        # Vite configuration
+└── tailwind.config.js    # Tailwind CSS configuration
 ```
 
 ## 🤝 Contributing
