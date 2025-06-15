@@ -1,24 +1,37 @@
 # DadHub - Celebrate Your Everyday Hero 🎉
 
-A heartfelt web application dedicated to celebrating fathers and creating meaningful Father's Day experiences. This project aims to bring families closer together through personalized tributes, gift suggestions, and shared memories.
+A modern web application dedicated to celebrating fathers and creating meaningful Father's Day experiences. This project brings together interactive elements, beautiful animations, and thoughtful content to help users express their appreciation for fathers.
 
 ## 🌟 Features
 
-- **Interactive Tribute Cards**: Create and customize beautiful digital cards for your father
-- **Gift Suggestions**: Curated list of thoughtful gift ideas for every type of dad
-- **Memory Sharing**: Platform to share and preserve special moments with your father
+- **Interactive Hero Section**: Engaging landing page with modern animations
+- **About Father's Day**: Informative section about the significance of Father's Day
+- **Gift Ideas**: Curated collection of thoughtful gift suggestions
+- **Celebration Modal**: Interactive modal with carousel showcasing celebration ideas
+- **Social Feed**: Dynamic feed for sharing and viewing Father's Day moments
+- **Footer CTA**: Clear call-to-action section for user engagement
 - **Responsive Design**: Beautiful and accessible interface that works on all devices
-- **Interactive Elements**: Engaging UI components to make the experience more personal
-- **Carousel Suggestions**: Dynamic display of Father's Day celebration ideas
 
 ## 🛠️ Technology Stack
 
-- React 18
-- TypeScript
-- Tailwind CSS
-- Vite
-- React Router
-- React Slick (for carousels)
+- **Core Technologies**:
+  - React 18
+  - TypeScript
+  - Vite
+  - Tailwind CSS
+
+- **UI Libraries**:
+  - Framer Motion (animations)
+  - React Slick (carousels)
+  - Keen Slider (sliders)
+  - Swiper (touch slider)
+  - Lucide React (icons)
+
+- **Development Tools**:
+  - ESLint
+  - PostCSS
+  - TypeScript ESLint
+  - Vite React Plugin
 
 ## 🚀 Getting Started
 
