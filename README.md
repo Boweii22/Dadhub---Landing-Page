@@ -1,4 +1,6 @@
 # DadHub - Celebrate Your Everyday Hero 🎉
+![44shots_so](https://github.com/user-attachments/assets/0c9b22dc-ac1f-4b82-9f8c-f391d08585d8)
+
 
 A modern web application dedicated to celebrating fathers and creating meaningful Father's Day experiences. This project brings together interactive elements, beautiful animations, and thoughtful content to help users express their appreciation for fathers.
 
@@ -85,7 +87,7 @@ project/
 
 ## 🤝 Contributing
 
-We welcome contributions! Whether it's adding new features, improving existing ones, or fixing bugs, your help is appreciated. Please feel free to submit a pull request.
+I welcome contributions! Whether it's adding new features, improving existing ones, or fixing bugs, your help is appreciated. Please feel free to submit a pull request.
 
 ## 📝 License
 
@@ -99,7 +101,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 💌 Contact
 
-For any questions or suggestions, please feel free to reach out to us.
+For any questions or suggestions, please feel free to reach out to me.
 
 ---
 
